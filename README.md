@@ -14,12 +14,12 @@ Caterpillars are hungry at each step, if they find a leaf they will move to that
 
 ### Symbolic Assignments:
 
-Small Caterpillar = '!'
-Medium Caterpillar = '$'
-Large Caterpillar = '&'
-Butterfly = 'B'
-Leaf = '*'
-Empty Cell = '.'
+* Small Caterpillar = '!'
+* Medium Caterpillar = '$'
+* Large Caterpillar = '&'
+* Butterfly = 'B'
+* Leaf = '*'
+* Empty Cell = '.'
 
 This model assumes the following initial condition, initial quantities are shows in parenthesis:
 * grid_width(15) - the width of the simulation grid
