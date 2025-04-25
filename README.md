@@ -1,4 +1,4 @@
-# Butterly_Population_Simulation
+# Butterly Population Simulation
 An inquiry into dynamic changes to the population of butterflies given initial resource (food, population, growth rate, etc) allocation.
 
 This project is a python implementation of a commonly used population dynamic model (often shown on the example of population of foxes vs. rabbits). The model runs the simulation and outputs a .csv file with relevant information.
